@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Puas Citro (@troazz), you can call me Puas.
+- 👀 I’m interested in Software Engineering. Especially on web and mobile development. 
+- 🌱 I’m currently learning Typescript, React and Golang.
+- 📞 You can contact me on puas.citro@gmail.com
